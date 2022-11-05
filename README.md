@@ -2,18 +2,17 @@
 
 ### I study engineering and program in my spare time.
 
-| My favorite softweres | the programming languages I use |
-|-----------------------|---------------------------------|
-|-----------------------|---------------------------------|
-| Adobe photoshop       | HTML                            |
-| Adobe Illustrator     | CSS                             |
-| Adobe Premiere Pro    | SASS                            |
-| Adobe After Effects   | JavaScript                      |
-| Canva                 | Python                          |
-| Figma                 | React.js                        |
-| Microsoft Excel       | Node.js                         |
-| MongoDB               | Express.js                      |
-|                       | SQL                             |
+| **My favorite softweres** | **the programming languages I use**|
+|---------------------------|------------------------------------|
+| Adobe photoshop           | HTML                               |
+| Adobe Illustrator         | CSS                                |
+| Adobe Premiere Pro        | SASS                               |
+| Adobe After Effects       | JavaScript                         |
+| Canva                     | Python                             |
+| Figma                     | React.js                           |
+| Microsoft Excel           | Node.js                            |
+| MongoDB                   | Express.js                         |
+|                           | SQL                                |
  
 
 

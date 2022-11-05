@@ -4,6 +4,7 @@
 
 | My favorite softweres | the programming languages I use |
 |-----------------------|---------------------------------|
+|-----------------------|---------------------------------|
 | Adobe photoshop       | HTML                            |
 | Adobe Illustrator     | CSS                             |
 | Adobe Premiere Pro    | SASS                            |

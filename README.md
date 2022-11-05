@@ -3,7 +3,7 @@
 ### I study engineering and program in my spare time.
 
 
-#Technologies I use
+# Technologies I use
 | **My favorite softweres** | **the programming languages I use**|
 |---------------------------|------------------------------------|
 | *Adobe photoshop*         | *HTML*                             |

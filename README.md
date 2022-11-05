@@ -2,7 +2,7 @@
 
 ### I study engineering and program in my spare time.
 
-# My favorite softwere || # My favorite softwere
+# My favorite softwere | # My favorite softwere
 > - photoshop
 > - ilustration
 <!--

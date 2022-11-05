@@ -2,7 +2,7 @@
 
 ### I study engineering and program in my spare time.
 
-| *My favorite softweres*   | *the programming languages I use*  |
+| ***My favorite softweres***   | ***the programming languages I use***  |
 |---------------------------|------------------------------------|
 | Adobe photoshop           | HTML                               |
 | Adobe Illustrator         | CSS                                |

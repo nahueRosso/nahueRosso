@@ -4,17 +4,17 @@
 
 
 # Technologies I use
-| **My favorite softweres** | **the programming languages I use**|
-|---------------------------|------------------------------------|
-| *Adobe photoshop*         | *HTML*                             |
-| *Adobe Illustrator*       | *CSS*                              |
-| *Adobe Premiere Pro*      | *SASS*                             |
-| *Adobe After Effects*     | *JavaScript*                       |
-| *Canva*                   | *Python*                           |
-| *Figma*                   | *React.js*                         |
-| *Microsoft Excel*         | *Node.js*                          |
-| *MongoDB*                 | *Express.js*                       |
-|                           | *SQL*                              |
+| **My favorite softweres** | **the programming languages I use**| **frameworks and libraries** |
+|---------------------------|------------------------------------|------------------------------|
+| *Adobe photoshop*         | *HTML*                             | *Express.js*                 |
+| *Adobe Illustrator*       | *CSS*                              | *bootstrap*                  |
+| *Adobe Premiere Pro*      | *SASS*                             | *MUI*                        |  
+| *Adobe After Effects*     | *JavaScript*                       | *Tailwind*                   |
+| *Canva*                   | *Python*                           | *Django*                     |
+| *Figma*                   | *React.js*                         |                              |
+| *Microsoft Excel*         | *Node.js*                          |                              |
+| *MongoDB*                 | *SQL*                              |                              |
+|                           | *Typescript*                       |                              |
 
 
 <!--

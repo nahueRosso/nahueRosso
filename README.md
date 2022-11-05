@@ -1,6 +1,10 @@
 ![img](https://github.com/nahueRosso/nahueRosso/blob/main/readme.png)
 
-### I study engineering and program in my spare time
+### I study engineering and program in my spare time.
+
+#My favorite softwere
+> - photoshop
+> - ilustration
 <!--
 **nahueRosso/nahueRosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

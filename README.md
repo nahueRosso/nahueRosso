@@ -6,10 +6,10 @@
 |-----------------------|---------------------------------|
 | Adobe photoshop | HTML|
 
- | list num | afasfsa | cascsc |
+ | list num | liasfsa | cascsc |
  |----------|---------|--------|
  | list num | afasfsa | cascsc |
- | list num | afasfsa | cascsc |
+ | list num | hoasfsa | cascsc |
 
 # My favorite softweres
 > - Adobe photoshop

@@ -1,4 +1,4 @@
-![img](https://github.com/nahueRosso/nahueRosso/blob/main/README.md)
+![img](https://github.com/nahueRosso/nahueRosso/blob/main/readme.png)
 
 <!--
 **nahueRosso/nahueRosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

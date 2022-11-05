@@ -2,9 +2,27 @@
 
 ### I study engineering and program in my spare time.
 
-# My favorite softwere | # My favorite softwere
-> - photoshop
-> - ilustration
+
+# My favorite softweres
+> - Adobe photoshop
+> - Adobe Illustrator
+> - Adobe Premiere Pro
+> - Adobe After Effects
+> - Canva
+> - Figma
+> - Microsoft Excel
+> - MongoDB
+
+# the programming languages I use
+> - HTML
+> - CSS
+> - SASS
+> - JavaScript
+> - Python
+> - React.js
+> - Node.js
+> - Express.js
+> - SQL 
 <!--
 **nahueRosso/nahueRosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

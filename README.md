@@ -4,35 +4,18 @@
 
 | My favorite softweres | the programming languages I use |
 |-----------------------|---------------------------------|
-| Adobe photoshop | HTML|
+| Adobe photoshop       | HTML                            |
+| Adobe Illustrator     | CSS                             |
+| Adobe Premiere Pro    | SASS                            |
+| Adobe After Effects   | JavaScript                      |
+| Canva                 | Python                          |
+| Figma                 | React.js                        |
+| Microsoft Excel       | Node.js                         |
+| MongoDB               | Express.js                      |
+|                       | SQL                             |
+ 
 
-  list num | liasfsa | cascsc 
- ----------|---------|--------
-  list num | afasfsa | cascsc 
-  list num | hoasfsa | cascsc
-  list num | afasfsa | cascsc 
-  list num | hoasfsa | cascsc 
 
-# My favorite softweres
-> - Adobe photoshop
-> - Adobe Illustrator
-> - Adobe Premiere Pro
-> - Adobe After Effects
-> - Canva
-> - Figma
-> - Microsoft Excel
-> - MongoDB
-
-# the programming languages I use
-> - HTML
-> - CSS
-> - SASS
-> - JavaScript
-> - Python
-> - React.js
-> - Node.js
-> - Express.js
-> - SQL 
 <!--
 **nahueRosso/nahueRosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

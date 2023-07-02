@@ -11,8 +11,8 @@
 | *Adobe Premiere Pro*      | *SASS*                             | *MUI*                        |  
 | *Adobe After Effects*     | *JavaScript*                       | *Tailwind*                   |
 | *Canva*                   | *Python*                           | *Django*                     |
-| *Figma*                   | *React.js*                         |                              |
-| *Microsoft Excel*         | *Node.js*                          |                              |
-| *MongoDB*                 | *SQL*                              |                              |
+| *Figma*                   | *React.js*                         | *tensorflow*                 |
+| *Microsoft Excel*         | *Node.js*                          | *keras*                      |
+| *MongoDB*                 | *SQL*                              | *scikit-learn*               |
 |                           | *Typescript*                       |                              |
 

@@ -14,5 +14,6 @@
 | *Figma*                   | *React.js*                         | *tensorflow*                 |
 | *Microsoft Excel*         | *Node.js*                          | *keras*                      |
 | *MongoDB*                 | *SQL*                              | *scikit-learn*               |
-|                           | *Typescript*                       |                              |
+|                           | *Typescript*                       | *FastAPI*                    |
+|                           | *Next.js*                          |                              |
 
